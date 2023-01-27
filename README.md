@@ -4,7 +4,7 @@ Hello everyone 👋 I am a Full-Stack developer 👨‍💻 who loves developing
 🎁 My Services include:
 
 ✅ Backend Development:
-📣 Python backend using PHP - Laravel, CI
+📣 PHP backend using PHP - Laravel, CI
 📣 Python backend using Django - Flask - PostgresSQL.
 📣 TypeScript backend using Node.js - Express.js - MongoDB.
 
