@@ -1,9 +1,10 @@
 # Secret-Super-St@r
-Hello everyone 👋 I am a Full-Stack developer 👨‍💻 who loves developing websites using TypeScript, React.js and Redux, Node.js, Express.js and MongoDB, also using Python, Django and Flask.
+Hello everyone 👋 I am a Full-Stack developer 👨‍💻 who loves developing websites using PHP, Laravel, TypeScript, React.js and Redux, Node.js, Express.js and MongoDB, also using Python, Django and Flask.
 
 🎁 My Services include:
 
 ✅ Backend Development:
+📣 Python backend using PHP - Laravel, CI
 📣 Python backend using Django - Flask - PostgresSQL.
 📣 TypeScript backend using Node.js - Express.js - MongoDB.
 
