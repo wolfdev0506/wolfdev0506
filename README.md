@@ -47,6 +47,6 @@ Mainly, I am focusing JS frameworks and libraries such as React, Three.js, Node 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/breadhead313"><img src="https://github-readme-stats.vercel.app/api?username=kingstar0126&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="breadhead313's GitHub stats" /></a>
+<a href="http://www.github.com/breadhead313"><img src="https://github-readme-stats.vercel.app/api?username=breadhead313&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="breadhead313's GitHub stats" /></a>
 
 <a href="https://github.com/breadhead313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadhead313&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
