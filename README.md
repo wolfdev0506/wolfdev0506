@@ -6,18 +6,18 @@ Javascript Expert and musician
 
 😀Hello🌝, How are you doing? If you are fine, I am happy🙂.
 
-As a musician, I'm open-minded and I love to work with clients of all types. And I am also a Javascript Expert with 5+ years of experience.
+As a musician, I'm open-minded and I love to work with clients of all types. And I am also a Javascript Expert with 5+ years of experience.<br />
 Mainly, I am focusing JS frameworks and libraries such as React, Three.js, Node and so on.
 
-# My Working Style
-⚡Full-time developer (40+ hours per week)
-⚡Working in your time zone & Good communication.
-⚡Update the result daily, every week
-⚡Keep on-Time, on-Budget
-⚡100% ongoing satisfaction with your project.
-⚡Provide the result with high quality
-⚡Lifetime Free Bug-Fix support after completion
-⚡Agile Scrum workflow!
+### My Working Style
+⚡Full-time developer (40+ hours per week)<br />
+⚡Working in your time zone & Good communication.<br />
+⚡Update the result daily, every week<br />
+⚡Keep on-Time, on-Budget<br />
+⚡100% ongoing satisfaction with your project.<br />
+⚡Provide the result with high quality<br />
+⚡Lifetime Free Bug-Fix support after completion<br />
+⚡Agile Scrum workflow!<br />
 
 
 ### Skills
