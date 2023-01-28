@@ -4,7 +4,7 @@ Hi 👋 My name is KOBY HORNIBROOK
 Javascript Expert and musician
 ------------------------------
 
-😀Hello🌝, How are you doing? If you are fine, I am happy🙂.
+😀Hello🌝, How are you doing? If you are okay, I am happy🙂.
 
 As a musician, I'm open-minded and I love to work with clients of all types. And I am also a Javascript Expert with 5+ years of experience.<br />
 Mainly, I am focusing JS frameworks and libraries such as React, Three.js, Node and so on.
