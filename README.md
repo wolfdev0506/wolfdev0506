@@ -1,4 +1,4 @@
-Hi 👋 My name is KOBY HORNIBROOK
+Hi 👋 My name is Koby Hornibrook
 =============================
 
 Javascript Expert and musician
