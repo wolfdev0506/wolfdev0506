@@ -1,16 +1,24 @@
-Hi 👋 My name is Helcio André
+Hi 👋 My name is KOBY HORNIBROOK
 =============================
 
-Web Developer and football fan
+Javascript Expert and musician
 ------------------------------
 
-I am a web developer that loves to create beautiful, effective products with enjoyable user experiences. I am a curious, engaged, hard-working person and passionate about engineering and technology. Fluent in multiple languages, frameworks, and technologies.
+😀Hello🌝, How are you doing? If you are fine, I am happy🙂.
 
-* 🌍  I'm based in Luanda the capital city of Angola
-* 🖥️  See my portfolio at [helciodev](http://helciodev.netlify.app/)
-* ✉️  You can contact me at [helcioandre@live.com](mailto:helcioandre@live.com)
-* 🧠  I'm learning Typescript
-* ⚡  I can do a back-flip
+As a musician, I'm open-minded and I love to work with clients of all types. And I am also a Javascript Expert with 5+ years of experience.
+Mainly, I am focusing JS frameworks and libraries such as React, Three.js, Node and so on.
+
+# My Working Style
+⚡Full-time developer (40+ hours per week)
+⚡Working in your time zone & Good communication.
+⚡Update the result daily, every week
+⚡Keep on-Time, on-Budget
+⚡100% ongoing satisfaction with your project.
+⚡Provide the result with high quality
+⚡Lifetime Free Bug-Fix support after completion
+⚡Agile Scrum workflow!
+
 
 ### Skills
 
@@ -32,15 +40,10 @@ I am a web developer that loves to create beautiful, effective products with enj
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.codepen.io/helcio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/helcio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/helciodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/helciodev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/helcio-andre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/helcio_bruno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/helciodev"><img src="https://github-readme-stats.vercel.app/api?username=helciodev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="helciodev's GitHub stats" /></a>
+<a href="http://www.github.com/helciodev"><img src="https://github-readme-stats.vercel.app/api?username=breadhead313&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="helciodev's GitHub stats" /></a>
 
-<a href="https://github.com/helciodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helciodev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/helciodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadhead313&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
