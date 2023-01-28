@@ -12,14 +12,14 @@ Mainly, I am focusing JS frameworks and libraries such as React, Three.js, Node 
 ### My Working Style
 
 <p align="left">
-⚡Full-time developer (40+ hours per week)
-⚡Working in your time zone & Good communication.
-⚡Update the result daily, every week
-⚡Keep on-Time, on-Budget<br />
-⚡100% ongoing satisfaction with your project.
-⚡Provide the result with high quality
-⚡Lifetime Free Bug-Fix support after completion
-⚡Agile Scrum workflow!
+⚡Full-time developer (40+ hours per week)<br />
+⚡Working in your time zone & Good communication.<br />
+⚡Update the result daily, every week<br />
+⚡Keep on-Time, on-Budget<br /><br />
+⚡100% ongoing satisfaction with your project.<br />
+⚡Provide the result with high quality<br />
+⚡Lifetime Free Bug-Fix support after completion<br />
+⚡Agile Scrum workflow!<br />
 </p>
 
 
@@ -30,7 +30,7 @@ Mainly, I am focusing JS frameworks and libraries such as React, Three.js, Node 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Three.js" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
