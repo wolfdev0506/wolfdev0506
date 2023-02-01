@@ -1,4 +1,4 @@
-Hi 👋 My name is Koby Hornibrook
+Hi 👋 My name is Kane North
 =============================
 
 Javascript Expert and musician
