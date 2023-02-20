@@ -1,4 +1,4 @@
-Hi 👋 I am a Javascript Expert and musician
+Hi 👋 I am a 3D Web Developer and musician
 =============================
 
 About me
@@ -7,7 +7,7 @@ About me
 😀Hello🌝, How are you doing? If you are okay, I am happy🙂.
 
 As a musician, I'm open-minded and I love to work with clients of all types. And I am also a Javascript Expert with 5+ years of experience.<br />
-Mainly, I am focusing JS frameworks and libraries such as React, Three.js, D3.js, Chart.js, R3F and so on.
+Mainly, I am focusing JS frameworks and libraries such as Three.js, Babylon.js, R3F and so on.
 
 ### My Working Style
 
