@@ -1,7 +1,9 @@
-👋 Hi, I am a Wolf Developer 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+👋 Hi, I am a Wolf Developer 👋<br/>
 🌝 But very friendly to clients. 🌝
 =============================
-
 About me
 ------------------------------
 
