@@ -6,7 +6,7 @@ About me
 ------------------------------
 
 😀Hello🌝, How are you doing? If you are okay, I am happy🙂.
-
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 As a football lover, I'm open-minded and I love to work with clients of all types. And I am also a Senior Full Stack Developer with 8+ years of experience.<br />
 Mainly, I am focusing Python frameworks such as Django, Flask, FastAPI and so on.<br/>
 
