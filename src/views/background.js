@@ -19,9 +19,9 @@ export default function Background() {
 			<div id="stars3" />
 			<div className="top-container flex">
 				<h1>
-					Hello, I&apos;m Frank Izquierdo.
+					Hello, I&apos;m Wolf Developer.
 					<br />
-					I&apos;m a Full Stack Web Developer.
+					I&apos;m a Python Developer.
 				</h1>
 				{/* offset can be changed in node modules wowjs default file */}
 				<button className={"work-button wow bounceIn"} data-wow-offset="0"

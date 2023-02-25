@@ -1,4 +1,5 @@
-Hi 👋 I am a 3D Web Developer and musician
+👋 Hi, I am Wolf Developer 👋
+🌝 But very friendly to clients. 🌝
 =============================
 
 About me
@@ -6,8 +7,10 @@ About me
 
 😀Hello🌝, How are you doing? If you are okay, I am happy🙂.
 
-As a musician, I'm open-minded and I love to work with clients of all types. And I am also a Javascript Expert with 5+ years of experience.<br />
-Mainly, I am focusing JS frameworks and libraries such as Three.js, Babylon.js, R3F and so on.
+As a football lover, I'm open-minded and I love to work with clients of all types. And I am also a Senior Full Stack Developer with 8+ years of experience.<br />
+Mainly, I am focusing Python frameworks such as Django, Flask, FastAPI and so on.<br/>
+
+Profoundly experienced with most React, Vue, Angular and modern JavaScript tools/frameworks.
 
 ### My Working Style
 
